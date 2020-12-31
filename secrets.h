@@ -1,0 +1,7 @@
+#ifndef SECRETS
+#define SECRETS
+
+#define WIFI_SSID "<PUT_YOUR_WIFI_NAME_HERE>"
+#define WIFI_PSK "<PUT_YOUR_WIFI_PASSWORD_HERE>"
+
+#endif // SECRETS
