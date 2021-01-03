@@ -1,7 +1,5 @@
 #include "SSD1306_128x64_SPI.h"
 
-#include "time.h"
-
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT,
   &SPI, OLED_DC, OLED_RESET, OLED_CS);
 

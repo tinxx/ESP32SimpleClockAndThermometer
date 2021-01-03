@@ -35,7 +35,7 @@ void setup(){
            "Wifi and\n"
            "clock...",
            2);
-  delay(2000);
+  delay(500);
 
   // Wifi setup
   WiFi.mode(WIFI_STA);

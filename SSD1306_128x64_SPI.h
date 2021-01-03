@@ -21,8 +21,6 @@
 //     CS  --> GPIO  5          --> SPI SS (Slave Select) [CS=Chip Select?]
 
 // Declaration for SSD1306 display
-#define OLED_MOSI  23
-#define OLED_CLK   18
 #define OLED_DC     4
 #define OLED_CS     5
 #define OLED_RESET 19
